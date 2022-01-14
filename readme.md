@@ -7,7 +7,7 @@ This is simple chat application using standard libraries except 'laravel-echo-se
 Clone this repository into your machine.
 
 ```
-git clone https://github.com/gdbhosale/chat-laravel-socketio-redis-vuejs.git
+git clone https://github.com/drydev/chat-laravel-socketio-redis-vuejs.git
 ```
 
 Install Laravel
