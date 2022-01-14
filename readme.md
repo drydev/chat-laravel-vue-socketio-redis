@@ -57,7 +57,5 @@ node socket.js
 
 Now Check your application in Browser.
 
-Get List of All Basic Changes for Simple Laravel-Socket.IO Application here:
-[Changes.md](https://github.com/gdbhosale/chat-laravel-socketio-redis-vuejs/blob/master/changes.md)
+Check Laravel Admin Panel created by me: [LaraAdmin](http://laraadmin.com)
 
-Follow me on [Twitter](https://twitter.com/gdbhosale) or [Github](https://github.com/gdbhosale). Check Laravel Admin Panel created by me: [LaraAdmin](http://laraadmin.com)
